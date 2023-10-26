@@ -7,7 +7,7 @@ namespace BBCodeFormatter
         public static void Main()
         {
             CodeConverter cc = new();
-            cc.ReadXML("examplecode.xml");
+            Console.WriteLine(cc.ReadAndConvert("examplecode.xml").Result);
         }
     }
 }
