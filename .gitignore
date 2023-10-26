@@ -362,4 +362,6 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 Thumbs.db
-EclipsePhaseDiceBot.code-workspace
+
+# Doxygen docs folder
+docs/
