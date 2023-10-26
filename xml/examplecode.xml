@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This is a sample XML document -->
+<!DOCTYPE Description [
+    <!ENTITY name "Example">
+    <!ENTITY idnum "000000">
+]>
+<Description>
+    <center>
+        <p>&name; (&idnum;) <b>Lorem ipsum</b> dolor sit amet, consectetur adipiscing elit. Nullam enim eros, feugiat eu nunc in, lobortis venenatis magna. Phasellus consectetur, nunc at gravida consequat, sem nulla lacinia mauris, id varius lorem lacus vel ligula.</p>
+        <br/>
+        <p>Praesent elementum placerat orci, sed volutpat dolor maximus at. Nulla consectetur ipsum sed sagittis scelerisque. Maecenas laoreet, diam at molestie posuere, magna sapien vestibulum mi, id bibendum dolor turpis a purus. Curabitur vel felis risus. Nulla sed eleifend urna. Sed porta eleifend purus quis fermentum. Aliquam sed arcu tempor, dapibus magna ut, tempus felis.</p>
+    </center>
+</Description>
